@@ -8,7 +8,7 @@ import {HeaderComponent} from './header/header.component';
 })
 
 export class AppComponent implements OnInit {
-  header!: HeaderComponent;
+header!: HeaderComponent;
 faceSnaps!: FaceSnap[];
 
  ngOnInit(){
